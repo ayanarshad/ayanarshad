@@ -1,4 +1,4 @@
-![logo](https://github.com/ayanarshad/readme.md/blob/main/1500x500.jpg)
+![logo](https://github.com/ayanarshad/ayanarshad/blob/main/1500x500.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">I'm Pakistani Graphics Designer, Web Developer, and softwares designer/ Programmer.</h3>
 
