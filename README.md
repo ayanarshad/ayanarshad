@@ -8,8 +8,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=onedark&row=2&column=3" alt="ayanarshad" /></a> </p>
 
 
-<p align="center"> 👨‍💻 All of my projects are available at:- <a href="https://aaportfolio.pages.dev" target_blank><strong>(AA)-Portfolio</strong></a></p>
-<p align="center"> 📝 I regularly write articles on:- <a href="https://ayanarshad.blogspot.com" target_blank><strong>(AA)-Blog</strong></a> </p>
+<p align="center"> 👨‍💻 All of my projects are available at:- <a href="https://aaportfolio.pages.dev" target="blank"><strong>(AA)-Portfolio</strong></a></p>
+<p align="center"> 📝 I regularly write articles on:- <a href="https://ayanarshad.blogspot.com" target="blank"><strong>(AA)-Blog</strong></a> </p>
 <p align="center"> 📫 How to reach me:- ayanarshad113@gmail.com </p>
 <p align="center"> 📫 How to reach me (outlook):- ayanarshad11@outlook.com </p>
 
