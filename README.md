@@ -8,7 +8,7 @@
  <a href="https://aaportfolio.pages.dev" target="blank"><img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Faaportfolio.pages.dev"></a>
    </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=onedark&row=2&column=3" alt="ayanarshad" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=onedark&row=1&column=7" alt="ayanarshad" /></a> </p>
 
 <p align="center"> 👨‍💻 All of my projects are available at:- <a href="https://aaportfolio.pages.dev" target="blank"><strong>(AA)-Portfolio</strong></a></p>
 <p align="center"> 📝 I regularly write articles on:- <a href="https://ayanarshad.blogspot.com" target="blank"><strong>(AA)-Blogs</strong></a> </p>
