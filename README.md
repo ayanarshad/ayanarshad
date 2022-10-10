@@ -1,4 +1,4 @@
-![logo](https://github.com/ayanarshad/ayanarshad/blob/main/(AA)-Github%20Banner.png)
+<a href="https://linktr.ee/AyanArshad" target="blank"><img src="https://github.com/ayanarshad/ayanarshad/blob/main/(AA)-Github%20Banner.png">
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">I'm Pakistani Graphics Designer, Web Developer, and softwares designer/ Programmer.</h3>
 
