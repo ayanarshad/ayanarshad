@@ -5,7 +5,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ayanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayanarshad" /> 
  <a href="https://twitter.com/aaayanarshad113" target="blank"><img src="https://img.shields.io/twitter/follow/aaayanarshad113?&color=0e75b6&style=flat" alt="aaayanarshad113" /></a>
-<img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Faaportfolio.pages.dev">
+ <a href="https://aaportfolio.pages.dev" target="blank"><img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Faaportfolio.pages.dev"></a>
    </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=onedark&row=2&column=3" alt="ayanarshad" /></a> </p>
