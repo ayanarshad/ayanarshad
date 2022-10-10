@@ -1,18 +1,21 @@
-<a href="https://linktr.ee/AyanArshad" target="blank"><img src="https://github.com/ayanarshad/ayanarshad/blob/main/(AA)-Github%20Banner.png">
+<a href="https://linktr.ee/AyanArshad" target="blank"><img src="https://github.com/ayanarshad/ayanarshad/blob/main/(AA)-Github%20Banner.png">  
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">I'm Pakistani Graphics Designer, Web Developer, and softwares designer/ Programmer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayanarshad" /> </p>
-<p align="center"> <a href="https://twitter.com/aaayanarshad113" target="blank"><img src="https://img.shields.io/twitter/follow/aaayanarshad113?&color=0e75b6&style=flat" alt="aaayanarshad113" /></a> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ayanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayanarshad" /> 
+ <a href="https://twitter.com/aaayanarshad113" target="blank"><img src="https://img.shields.io/twitter/follow/aaayanarshad113?&color=0e75b6&style=flat" alt="aaayanarshad113" />
+<img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Faaportfolio.pages.dev">
+   </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=onedark&row=2&column=3" alt="ayanarshad" /></a> </p>
 
-
 <p align="center"> 👨‍💻 All of my projects are available at:- <a href="https://aaportfolio.pages.dev" target="blank"><strong>(AA)-Portfolio</strong></a></p>
-<p align="center"> 📝 I regularly write articles on:- <a href="https://ayanarshad.blogspot.com" target="blank"><strong>(AA)-Blog</strong></a> </p>
+<p align="center"> 📝 I regularly write articles on:- <a href="https://ayanarshad.blogspot.com" target="blank"><strong>(AA)-Blogs</strong></a> </p>
 <p align="center"> 📫 How to reach me:- ayanarshad113@gmail.com </p>
 <p align="center"> 📫 How to reach me (outlook):- ayanarshad11@outlook.com </p>
-
+  
+  ---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,6 +52,7 @@
 <img  alt="Tailwindcss" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
 <img  alt="webflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" style="padding-right:10px;" />
 </p>
+  
   
 <details align="center">
   <summary>:zap: <h3>GitHub Stats</h3></summary>
