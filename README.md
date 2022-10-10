@@ -37,11 +37,18 @@
 <img  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img alt="illustrator" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
 <img  alt="photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-    <img  alt="figms" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+    <img  alt="XD" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" style="padding-right:10px;" />
+    <img  alt="figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img  alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img  alt="oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
 <img  alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img  alt="windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+    <img  alt="Dot-Net" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
+    <img  alt="google" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" style="padding-right:10px;" />
+    <img  alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+    <img  alt="Tailwindcss" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
+    <img  alt="webflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" style="padding-right:10px;" />
+    
 </p>
 
 
