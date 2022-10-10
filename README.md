@@ -1,4 +1,4 @@
-![logo](https://github.com/ayanarshad/ayanarshad/blob/main/(AA)-Github%20Banner.webp)
+![logo](https://github.com/ayanarshad/ayanarshad/blob/main/(AA)-Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">I'm Pakistani Graphics Designer, Web Developer, and softwares designer/ Programmer.</h3>
 
