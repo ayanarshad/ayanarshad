@@ -54,11 +54,10 @@
 </p>
   
   
-<details align="center">
-  <summary>:zap: <h3>GitHub Stats</h3></summary>
+<h3 align="center"> GitHub Stats</h3>
 <h3 align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanarshad&layout=compact&show_icons=true&theme=dark" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanarshad&show_icons=true&theme=dark" alt="ayanarshad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanarshad&show_icons=true&theme=dark" alt="ayanarshad" /></p>
 </h3>
-</details>
+</h3>
