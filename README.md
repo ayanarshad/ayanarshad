@@ -31,7 +31,7 @@
     <a href="https://linkedin.com/in/aaayanarshad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.behance.net/ayanarshad"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
     <a href="https://fb.com/aaayanarshad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://www.youtube.com/c/aaayanarshad"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.youtube.com/c/aaayaAnarshad"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="https://instagram.com/aaayanarshad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
@@ -60,6 +60,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanarshad&theme=dark&hide_border=true" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayanarshad/ayanarshad/main/github-contribution-grid-snake.svg" alt="snake" />
-</p>
